@@ -1,0 +1,3 @@
+. venv/Scrips/activate
+
+put thi code into bash to activare virtual network environment.
